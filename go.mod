@@ -1,3 +1,5 @@
-module github.com/username/lazytrans-web-be
+module github.com/lamphusy/lazytrans-web-be
 
 go 1.24.1
+
+require github.com/mattn/go-sqlite3 v1.14.28
